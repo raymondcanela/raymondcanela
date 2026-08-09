@@ -191,7 +191,7 @@ Especially roles involving:
 
 <br><br>
 
-### 💡 *"Build it. Break it. Understand it. Improve it."*
+### 💡 *"Despite everything, it's still you."*
 
 <br>
 
