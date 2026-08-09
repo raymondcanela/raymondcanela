@@ -1,10 +1,16 @@
+<div align="center">
+
 # 👋 Hi, I'm Raymond Canela
 
 ### Backend & Data Engineering • Cloud • Python
 
 **Computer Science Student building practical systems, data pipelines, and cloud-powered applications.**
 
+<br>
+
 [🌐 Portfolio](#) • [💼 LinkedIn](#) • [📧 Email](mailto:YOUR_EMAIL@example.com)
+
+</div>
 
 ---
 
@@ -12,9 +18,9 @@
 
 I'm a **Computer Science student** focused on **backend development, data engineering, and cloud technologies**.
 
-I enjoy turning ideas into working systems, from REST APIs and database-backed applications to ETL pipelines, analytics, and cloud infrastructure.
+I enjoy turning ideas into working systems — from REST APIs and database-backed applications to ETL pipelines, analytics, and cloud infrastructure.
 
-Currently, I'm building my skills around:
+### What I work with
 
 - 🐍 **Python & Backend Engineering**
 - 🗄️ **SQL, PostgreSQL & Relational Databases**
@@ -25,25 +31,25 @@ Currently, I'm building my skills around:
 - 🌊 **Airflow & Databricks**
 - 🐳 **Docker, Linux & Git**
 
-> **Goal:** Become a strong backend/data engineer who can build reliable systems from data ingestion all the way to production.
+> 🎯 **Goal:** Become a strong backend/data engineer who can build reliable systems from data ingestion all the way to production.
 
 ---
 
 ## ⚙️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-`Python` `Java` `JavaScript` `C++` `HTML` `CSS`
+`Python` `Java` `JavaScript` `C++` `HTML` `CSS` `SQL`
 
-### Backend & Data
+### ⚡ Backend & Databases
 
-`FastAPI` `Flask` `PostgreSQL` `MySQL` `SQLite` `REST APIs`
+`FastAPI` `Flask` `REST APIs` `PostgreSQL` `MySQL` `SQLite`
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 `AWS` `Azure` `Docker` `Linux` `Git` `GitHub`
 
-### Data / Analytics
+### 📊 Data & Analytics
 
 `Pandas` `NumPy` `PySpark` `Apache Airflow` `Databricks` `Power BI` `Excel`
 
@@ -71,11 +77,11 @@ A management platform designed to handle the day-to-day operations of rental pro
 
 ---
 
-### 📊 CHEEMO - Smart Local Price Checker
+### 📊 CHEEMO — Smart Local Price Checker
 
-A data-focused project designed around collecting, transforming, and analyzing product price information.
+A data-focused project built around structured product price data and analytics.
 
-**Focus:** Data pipelines • Structured datasets • SQL • Analytics
+**Focus:** `Data Pipelines` • `SQL` • `PostgreSQL` • `Analytics`
 
 **Stack:** `Python` `SQL` `PostgreSQL` `Pandas`
 
@@ -83,11 +89,11 @@ A data-focused project designed around collecting, transforming, and analyzing p
 
 ### ☁️ Cloud & Data Engineering Experiments
 
-Hands-on projects and experiments involving:
+Hands-on experiments involving:
 
 `AWS S3` • `EC2` • `RDS` • `Lambda` • `Databricks` • `PySpark` • `Airflow`
 
-I use these projects to understand how real-world data moves through cloud infrastructure, from ingestion and storage to transformation and analytics.
+I use these projects to understand how real-world data moves through cloud infrastructure — from ingestion and storage to transformation and analytics.
 
 ---
 
@@ -95,31 +101,22 @@ I use these projects to understand how real-world data moves through cloud infra
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raymondcanela&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymondcanela&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" height="165" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
+### 🐍 Contribution Snake
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/raymondcanela/raymondcanela/output/github-contribution-grid-snake-dark.svg"
-  >
+  />
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/raymondcanela/raymondcanela/output/github-contribution-grid-snake.svg"
-  >
+  />
   <img
-    alt="GitHub contribution snake"
     src="https://raw.githubusercontent.com/raymondcanela/raymondcanela/output/github-contribution-grid-snake.svg"
-  >
+    alt="GitHub contribution snake"
+    width="100%"
+  />
 </picture>
 
 </div>
@@ -146,3 +143,43 @@ Docker / DevOps
 
 Apache Spark / Databricks
 ████░░░░░░░░░░░░░░░░  15%
+```
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm interested in opportunities where I can gain real-world experience in:
+
+**Data Engineering • Backend Engineering • Cloud Engineering**
+
+Especially roles involving:
+
+`Python` `SQL` `APIs` `Databases` `ETL` `AWS` `Docker` `Linux`
+
+---
+
+## 📜 Certifications & Learning
+
+- ☁️ AWS cloud certification track
+- 📊 Data Engineering / Databricks learning
+- 🐍 Python & SQL development
+- ☁️ Cloud infrastructure & DevOps fundamentals
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[🌐 Portfolio](#) • [💼 LinkedIn](#) • [📧 Email](mailto:YOUR_EMAIL@example.com)
+
+<br><br>
+
+### 💡 *"Build it. Break it. Understand it. Improve it."*
+
+<br>
+
+<sub>Designed & maintained by <b>Raymond Canela</b> • 2026</sub>
+
+</div>
