@@ -8,7 +8,7 @@
 
 <br>
 
-[🌐 Portfolio](#) • [💼 LinkedIn](#) • [📧 Email](mailto:YOUR_EMAIL@example.com)
+[🌐 Portfolio](#) • [💼 LinkedIn](#) • [📧 Email](mailto:raymond.canela2002@gmail.com)
 
 </div>
 
@@ -161,10 +161,9 @@ Especially roles involving:
 
 ## 📜 Certifications & Learning
 
-- ☁️ AWS cloud certification track
-- 📊 Data Engineering / Databricks learning
-- 🐍 Python & SQL development
-- ☁️ Cloud infrastructure & DevOps fundamentals
+- ☁️ AWS Certified Solutions Architect – Associate (SAA-C03)
+- 🤖 AWS Certified AI Practitioner (AIF-C01)
+
 
 ---
 
@@ -172,7 +171,7 @@ Especially roles involving:
 
 <div align="center">
 
-[🌐 Portfolio](#) • [💼 LinkedIn](#) • [📧 Email](mailto:YOUR_EMAIL@example.com)
+[🌐 Portfolio](#) • [💼 LinkedIn](#) • [📧 Email](mailto:raymond.canela2002@gmail.com)
 
 <br><br>
 
