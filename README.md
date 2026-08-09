@@ -101,37 +101,19 @@ I use these projects to understand how real-world data moves through cloud infra
 
 <div align="center">
 
-<img
-  src="https://github-stats-extended.vercel.app/api?username=raymondcanela&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github"
-  height="170"
-  alt="Raymond's GitHub statistics"
-/>
-
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=raymondcanela&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E"
-  height="170"
-  alt="Raymond's top languages"
-/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
+### 🐍 Contribution Snake
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/raymondcanela/raymondcanela/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/raymondcanela/raymondcanela/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/raymondcanela/raymondcanela/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/raymondcanela/raymondcanela/output/github-snake.svg"
   />
   <img
-    src="https://raw.githubusercontent.com/raymondcanela/raymondcanela/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/raymondcanela/raymondcanela/output/github-snake.svg"
     alt="GitHub contribution snake"
     width="100%"
   />
